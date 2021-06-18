@@ -1,2 +1,3 @@
 rootProject.name = "AnimationPractice"
 include ':app'
+include ':animation_with_contraints_set'
