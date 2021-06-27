@@ -12,6 +12,7 @@
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/animation_with_android_view_animation_api" />
             <option value="$PROJECT_DIR$/animation_with_contraints_set" />
+            <option value="$PROJECT_DIR$/animation_with_drawable_resources" />
             <option value="$PROJECT_DIR$/animation_with_placeholder" />
             <option value="$PROJECT_DIR$/app" />
           </set>
